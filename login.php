@@ -56,7 +56,7 @@ function cws_do_login_form() {
 	Display lost password link.
 -->
 		<center><h1>Website Login Page</h1><hr>
-		<h5>Enter your login username and password to log <br>into the administrative area of your website,<br>
+		<h5>Enter your username and password to access <br>the administrative area of your website,<br>
 		<a href="/">or click here for the website Front Page</a></h5>
 		<hr>
 		Use the '<strong>Lost your password?</strong>' link below <br>to have a password reset link sent to you by email.
